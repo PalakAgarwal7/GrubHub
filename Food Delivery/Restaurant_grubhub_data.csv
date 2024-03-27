@@ -1,0 +1,721 @@
+Restaurant_Link,Restaurant_ID,Name,Ratings,Cuisine
+https://www.grubhub.com/restaurant/pantanos-kitchen-1308-broadway-hewlett/2809912,2809912,Pantano's Kitchen,273 ratings,Italian
+https://www.grubhub.com/restaurant/mcdonalds-1872-3rd-ave-new-york/1339059,1339059,McDonald's,1880 ratings,Fast Food
+https://www.grubhub.com/restaurant/veselka-144-2nd-ave-new-york-city/312813,312813,Veselka,4322 ratings,Breakfast
+https://www.grubhub.com/restaurant/taco-bell-490-peninsula-blvd-hempstead/925046,925046,Taco Bell,911 ratings,Mexican
+https://www.grubhub.com/restaurant/popeyes-239-25-linden-blvd-elmont/1200189,1200189,Popeyes,311 ratings,Fast Food
+https://www.grubhub.com/restaurant/jersey-mikes-988-hempstead-tpke-uniondale/1438066,1438066,Jersey Mike's,456 ratings,Sandwich
+https://www.grubhub.com/restaurant/sweetgreen-1740-broadway-new-york/2305142,2305142,sweetgreen,893 ratings,Salad
+https://www.grubhub.com/restaurant/wendys-4330-boston-rd-bronx/6444432,6444432,Wendy's,1036 ratings,Fast Food
+https://www.grubhub.com/restaurant/yolpaqui-taqueria-1431-forest-ave-staten-island/1198502,1198502,Yolpaqui Taqueria,3332 ratings,Mexican
+https://www.grubhub.com/restaurant/just-salad---2056-broadway-2056-broadway-new-york/302550,302550,Just Salad - 2056 Broadway,3986 ratings,Salad
+https://www.grubhub.com/restaurant/cocina-latina-789-allerton-ave-bronx/1259230,1259230,Cocina Latina,1584 ratings,Latin American
+https://www.grubhub.com/restaurant/darna-falafel-200-court-st-brooklyn/264844,264844,Darna Falafel,1712 ratings,Mediterranean
+https://www.grubhub.com/restaurant/bbq-pit-355-amsterdam-avenue-new-york/6196408,6196408,BBQ PIT,148 ratings,BBQ
+https://www.grubhub.com/restaurant/panera-bread-25441-horace-harding-expy-little-neck/1306575,1306575,Panera Bread,415 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/burger-king-1727-merrick-rd-merrick/743939,743939,Burger King,303 ratings,Hamburger
+https://www.grubhub.com/restaurant/pizza-nova-523-west-207-st-frnt-new-york/280020,280020,Pizza Nova,3033 ratings,Pizza
+https://www.grubhub.com/restaurant/honeybrains-372-lafayette-st-new-york/2038483,2038483,Honeybrains,227 ratings,Bowls
+https://www.grubhub.com/restaurant/jimbos-hamburger-palace-703-lenox-ave-new-york/782569,782569,Jimbos Hamburger Palace,4457 ratings,Hamburger
+https://www.grubhub.com/restaurant/maydan-by-wonder-uws-2030-broadway-new-york/5787496,5787496,Maydan by Wonder (UWS),131 ratings,Mediterranean
+https://www.grubhub.com/restaurant/eat-street-nyc-887-5th-avenue-brooklyn/6620528,6620528,Eat Street NYC,93 ratings,Dinner
+https://www.grubhub.com/restaurant/1915-hand-pulled-noodles--dumplings-207-e-26th-st-new-york/7599544,7599544,1915 Hand Pulled Noodles & Dumplings,47 ratings,Asian
+https://www.grubhub.com/restaurant/lunetta-pizza--restaurant-245-3rd-ave-new-york/4548224,4548224,Lunetta Pizza & Restaurant,5371 ratings,Pizza
+https://www.grubhub.com/restaurant/aahar-indian-cuisine-10-murray-st-new-york/333939,333939,Aahar Indian Cuisine,3925 ratings,Indian
+https://www.grubhub.com/restaurant/burgerdog-578-9th-ave-new-york/5333168,5333168,BurgerDog,NA,Hamburger
+https://www.grubhub.com/restaurant/subway-530-conduit-blvd-brooklyn/966928,966928,SUBWAY®,635 ratings,American
+https://www.grubhub.com/restaurant/dishes-6-e-45th-st-new-york/1006151,1006151,Dishes,141 ratings,Breakfast
+https://www.grubhub.com/restaurant/vegan-grill-1201-castle-hill-ave-bronx/1229437,1229437,Vegan Grill,1096 ratings,Hamburger
+https://www.grubhub.com/restaurant/checkers-2270-forest-ave-staten-island/1432786,1432786,Checkers,110 ratings,Hamburger
+https://www.grubhub.com/restaurant/rim-nam-thai-kitchen-52-jay-st-brooklyn/2747066,2747066,Rim Nam Thai Kitchen,209 ratings,Noodles
+https://www.grubhub.com/restaurant/capri-pizza--pasta-company-350-s-broadway-sleepy-hollow/4251824,4251824,Capri Pizza & Pasta Company,214 ratings,Pizza
+https://www.grubhub.com/restaurant/park-slope-restaurant-diner-486-5th-ave-brooklyn/1970761,1970761,Park Slope Restaurant Diner,640 ratings,Hamburger
+https://www.grubhub.com/restaurant/corgi-jianbing-ke-ji-jian-bing-4405-hunter-st-queens/6970168,6970168,Corgi Jianbing Ke Ji Jian Bing,10 ratings,Chinese
+https://www.grubhub.com/restaurant/le-petit-parisien-151-malcolm-x-blvd-new-york/1750149,1750149,Le Petit Parisien,441 ratings,Dessert
+https://www.grubhub.com/restaurant/dukes-cafe-22-56-31st-street-astoria/7650720,7650720,Duke's Cafe,28 ratings,Hamburger
+https://www.grubhub.com/restaurant/pie-zazz-1863-westchester-ave-bronx/7667368,7667368,Pie-Zazz,NA,Pizza
+https://www.grubhub.com/restaurant/yummy-halal-grill-4713-white-plains-road-bronx/6922424,6922424,Yummy Halal Grill,5 ratings,Hamburger
+https://www.grubhub.com/restaurant/the-mainstay-by-marc-murphy-park-slope-493-5th-ave-brooklyn/7286000,7286000,The Mainstay by Marc Murphy (Park Slope),4 ratings,Dessert
+https://www.grubhub.com/restaurant/solimar-grill-restaurant-1800-archer-st-bronx/1037766,1037766,Solimar Grill Restaurant,145 ratings,Breakfast
+https://www.grubhub.com/restaurant/inca-paisa-astoria-21-19-broadway-astoria/6542304,6542304,Inca Paisa Astoria,45 ratings,Breakfast
+https://www.grubhub.com/restaurant/afternoon-2785-broadway-new-york/6198064,6198064,Afternoon,191 ratings,Dessert
+https://www.grubhub.com/restaurant/subs-bro-1715-st-johns-pl-brooklyn/7572752,7572752,Subs Bro,3 ratings,Sandwich
+https://www.grubhub.com/restaurant/go-detox-bar-juice-and-grill-8824-van-wyck-expy-richmond-hill/7944792,7944792,Go Detox Bar Juice and Grill,NA,Breakfast
+https://www.grubhub.com/restaurant/max-soha-1274-amsterdam-ave-new-york/2560817,2560817,Max SoHa,441 ratings,Italian
+https://www.grubhub.com/restaurant/good-enough-to-eat---the-original-since-1981-520-columbus-ave-new-york/300180,300180,"Good Enough To Eat - The Original, since 1981",695 ratings,Breakfast
+https://www.grubhub.com/restaurant/semicolon-157th-9-edward-m-morgan-pl-new-york/2463595,2463595,Semicolon 157th,426 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/panini-point-263-1st-avenue-new-york/4505024,4505024,Panini Point,NA,Fast Food
+https://www.grubhub.com/restaurant/chris-caribbean-restaurant-613-nostrand-ave-brooklyn/1685816,1685816,Chris Caribbean Restaurant,339 ratings,Caribbean
+https://www.grubhub.com/restaurant/simply-gourmet-market-place-494-amsterdam-ave-new-york/2692116,2692116,Simply Gourmet Market Place,1451 ratings,Convenience
+https://www.grubhub.com/restaurant/las-dos-mixtecas-1285-castleton-ave-staten-island/6829328,6829328,Las Dos Mixtecas,20 ratings,Salads
+https://www.grubhub.com/restaurant/wham-o-burger-1250-hylan-blvd-staten-island/6971552,6971552,Wham-O! Burger,NA,Hamburger
+https://www.grubhub.com/restaurant/the-little-wings-stop-625-9th-ave-new-york/3217627,3217627,The Little Wings Stop,84 ratings,Fast Food
+https://www.grubhub.com/restaurant/laileilei-juice-and-snack-bar-832-westchester-ave-bronx/1419958,1419958,Laileilei Juice and Snack Bar,537 ratings,Breakfast
+https://www.grubhub.com/restaurant/meet-wise-meat-242-brighton-beach-ave-brooklyn/6855328,6855328,Meet Wise Meat,85 ratings,Mediterranean
+https://www.grubhub.com/restaurant/running-cool-restaurant-2263-jerome-ave-bronx/2191502,2191502,Running Cool Restaurant,273 ratings,Breakfast
+https://www.grubhub.com/restaurant/ploo-601-w-26th-st-new-york/5512016,5512016,Ploo,9 ratings,American
+https://www.grubhub.com/restaurant/serafina-vino-e-cucina-84th-1492-3rd-avenue-new-york/7604464,7604464,Serafina Vino E Cucina 84th,9 ratings,Italian
+https://www.grubhub.com/restaurant/el-buen-sabor-restaurant-corp-10-70-cypress-ave-glendale/7013784,7013784,El Buen Sabor Restaurant Corp.,NA,Mexican
+https://www.grubhub.com/restaurant/coffee-pot-23rd-av-28-19-23rd-ave-astoria/3179851,3179851,Coffee Pot 23rd Av,194 ratings,American
+https://www.grubhub.com/restaurant/conviction-chicken-3181-harkness-ave-brooklyn/3188460,3188460,Conviction Chicken,18 ratings,American
+https://www.grubhub.com/restaurant/shanghai-zhen-gong-fu-8616-queens-blvd-elmhurst/1015733,1015733,Shanghai Zhen Gong Fu,1233 ratings,Chinese
+https://www.grubhub.com/restaurant/bonafide-delicatessen-and-cafe-118-kane-st-brooklyn/322808,322808,Bonafide Delicatessen and Cafe,509 ratings,Hamburger
+https://www.grubhub.com/restaurant/alex-luncheonette-685-knickerbocker-ave-brooklyn/2485219,2485219,Alex Luncheonette,74 ratings,Mexican
+https://www.grubhub.com/restaurant/good-eats-diner-9717-queens-blvd-queens/6715520,6715520,Good Eats Diner,8 ratings,Breakfast
+https://www.grubhub.com/restaurant/el-tepeyac-dalilas-tacos-126-e-103rd-street-new-york/6844352,6844352,El Tepeyac Dalila's Tacos,36 ratings,Mexican
+https://www.grubhub.com/restaurant/omelette-station-1564-union-tpke-new-hyde-park/6190896,6190896,Omelette Station,NA,Breakfast
+https://www.grubhub.com/restaurant/bagel-market-168-william-st-new-york/6890328,6890328,Bagel Market,70 ratings,Bagel
+https://www.grubhub.com/restaurant/pret-a-manger-1320-york-ave-new-york/7610000,7610000,Pret a Manger,10 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/kennedys-fried-chicken-469-e-tremont-ave-new-york/2747186,2747186,Kennedy’s Fried Chicken,180 ratings,Hamburger
+https://www.grubhub.com/restaurant/bakers-dozen-bagels-8109-lefferts-blvd-kew-gardens/89086,89086,Baker's Dozen Bagels,1727 ratings,Bagel
+https://www.grubhub.com/restaurant/brooklyn-natural-market--cafe-810-washington-ave-brooklyn/331220,331220,Brooklyn Natural Market & Cafe,2439 ratings,Convenience
+https://www.grubhub.com/restaurant/bagel-villa-7221-5th-ave-brooklyn/3213364,3213364,Bagel Villa,807 ratings,Bagel
+https://www.grubhub.com/restaurant/applebees-neighborhood-grill--bar-139-flatbush-ave-brooklyn/7556400,7556400,Applebee's Neighborhood Grill + Bar,25 ratings,Hamburger
+https://www.grubhub.com/restaurant/thats-a-wrap-1708-broadway-brooklyn/7466784,7466784,Thats a Wrap,NA,Breakfast
+https://www.grubhub.com/restaurant/smokin-burger-grille-618-north-ave-new-rochelle/6894584,6894584,Smokin' Burger Grille,NA,Hamburger
+https://www.grubhub.com/restaurant/dirty-burger-101-guyon-ave-staten-island/3038403,3038403,Dirty Burger,43 ratings,Hamburger
+https://www.grubhub.com/restaurant/happy-bowls---astor-place-61-4th-ave-new-york/515829,515829,Happy Bowls - Astor Place,1189 ratings,Breakfast
+https://www.grubhub.com/restaurant/subs-a-licious-130-9th-ave-new-york/7575240,7575240,Subs a Licious,NA,Sandwich
+https://www.grubhub.com/restaurant/bag-n-wich-union-tpke-11040-1564-union-tpke-north-new-hyde-park/5825192,5825192,Bag-n-wich Union Tpke 11040,NA,Bagel
+https://www.grubhub.com/restaurant/cj-cafe---utica-817-utica-ave-brooklyn/3154207,3154207,CJ Cafe - Utica,38 ratings,American
+https://www.grubhub.com/restaurant/levain-bakery-1484-3rd-ave-new-york/6038712,6038712,Levain Bakery,438 ratings,Dessert
+https://www.grubhub.com/restaurant/little-italy-pizza-671-8th-ave-new-york/5270768,5270768,Little Italy Pizza,47 ratings,Pizza
+https://www.grubhub.com/restaurant/smile-to-go-23-lexington-ave-new-york/2490812,2490812,Smile To Go,73 ratings,Breakfast
+https://www.grubhub.com/restaurant/thai-mis-delicias-truck-2-130-5th-ave-new-york/835135,835135,Thai Mis Delicias Truck #2,87 ratings,Asian
+https://www.grubhub.com/restaurant/3-towns-cafe-25-68-francis-lewis-boulevard-queens/5996816,5996816,3 Towns Cafe,8 ratings,American
+https://www.grubhub.com/restaurant/happyboards-cheese--charcuterie-196-stanton-st-new-york/3164816,3164816,HappyBoards Cheese & Charcuterie,29 ratings,Dessert
+https://www.grubhub.com/restaurant/rockaway-express-deli-114-02-rockaway-blvd-south-ozone-park/2490015,2490015,Rockaway Express Deli,51 ratings,Hamburger
+https://www.grubhub.com/restaurant/bagels-r-us-4300-amboy-rd-staten-island/2617180,2617180,Bagels r us,141 ratings,Bagel
+https://www.grubhub.com/restaurant/applejack-diner-1725-broadway-ave-new-york/65547,65547,Applejack Diner,380 ratings,Hamburger
+https://www.grubhub.com/restaurant/main-street-coffee-173-main-st-staten-island/2560867,2560867,Main Street Coffee,153 ratings,Breakfast
+https://www.grubhub.com/restaurant/highridge-bagel-factory-1805-central-park-ave-yonkers/5707272,5707272,Highridge Bagel Factory,191 ratings,Bagel
+https://www.grubhub.com/restaurant/grilled-cheese-society-117-25-farmers-blvd-queens/3185056,3185056,Grilled Cheese Society,7 ratings,American
+https://www.grubhub.com/restaurant/pennys-pancakes-59-4th-ave-new-york/3310181,3310181,Penny's Pancakes,NA,Breakfast
+https://www.grubhub.com/restaurant/toastys-breakfast-burritos-37-kenmare-st-new-york/7143928,7143928,Toasty's Breakfast Burritos,3 ratings,Breakfast
+https://www.grubhub.com/restaurant/taqueria-los-primos-43-35-91st-pl-elmhurst/6855784,6855784,Taqueria los Primos,8 ratings,Mexican
+https://www.grubhub.com/restaurant/caridad-restaurant-express-18-e-gun-hill-rd-bronx/3319130,3319130,CARIDAD RESTAURANT EXPRESS,8 ratings,Chicken
+https://www.grubhub.com/restaurant/quesadilla-point-north-ave-288-north-avenue-new-rochelle/4100544,4100544,Quesadilla Point (North Ave),3 ratings,Mexican
+https://www.grubhub.com/restaurant/little-pizza-master-658-9th-ave-new-york/5115576,5115576,Little Pizza Master,NA,Pizza
+https://www.grubhub.com/restaurant/heavens-burgers-433-w-34th-st-new-york/3326398,3326398,Heaven's Burgers,5 ratings,Hamburger
+https://www.grubhub.com/restaurant/sanford--son-sandwiches-1630-madison-ave-new-york/7320432,7320432,Sanford & Son Sandwiches,NA,Sandwich
+https://www.grubhub.com/restaurant/la-hueca-epa-104-22-northern-blvd-flushing-queens/3135671,3135671,La Hueca Epa,6 ratings,Mexican
+https://www.grubhub.com/restaurant/kashmir-halal-gyro-1206-remsen-ave-brooklyn/6537200,6537200,Kashmir Halal Gyro,7 ratings,Chicken
+https://www.grubhub.com/restaurant/chunky-burger-35-55-31st-st-queens/2498508,2498508,Chunky Burger,13 ratings,Hamburger
+https://www.grubhub.com/restaurant/pb--jellys-2803-avenue-u-brooklyn/5346416,5346416,PB & Jellys,NA,American
+https://www.grubhub.com/restaurant/zahirul-convenience-445-7th-ave-brooklyn/3196197,3196197,Zahirul convenience,NA,American
+https://www.grubhub.com/restaurant/turkish-pizza-1614-sheepshead-bay-rd-brooklyn/2978637,2978637,TURKISH PIZZA,5 ratings,Pizza
+https://www.grubhub.com/restaurant/neighborhood-cafe-1463-york-ave-new-york/3278053,3278053,Neighborhood Cafe,12 ratings,Breakfast
+https://www.grubhub.com/restaurant/wings-vs-fries-578-9th-avenue-new-york/5217472,5217472,Wings Vs Fries,NA,Fast Food
+https://www.grubhub.com/restaurant/baked-by-melissa-2325-broadway-new-york/383232,383232,Baked by Melissa,98 ratings,Dessert
+https://www.grubhub.com/restaurant/the-cheeseburger-paradise-353-w-125th-st-new-york/3310131,3310131,The Cheeseburger Paradise,NA,Hamburger
+https://www.grubhub.com/restaurant/tacos-el-coyote-1320-jerome-ave-bronx/5829584,5829584,Tacos El Coyote,4 ratings,Mexican
+https://www.grubhub.com/restaurant/bleeckers-finest-deli-171-bleecker-st-new-york/277403,277403,Bleecker's Finest Deli,902 ratings,Convenience
+https://www.grubhub.com/restaurant/autumn-ave-cafe-323-autumn-ave-brooklyn/7662288,7662288,AUTUMN AVE CAFE,NA,Breakfast
+https://www.grubhub.com/restaurant/cafe-take-5-560-northern-blvd-great-neck/3336907,3336907,Cafe Take 5,NA,Salads
+https://www.grubhub.com/restaurant/philly-pretzel-factory-2105-hillside-avenue-north-new-hyde-park/2604611,2604611,Philly Pretzel Factory,62 ratings,Bakery
+https://www.grubhub.com/restaurant/huevorito-6111-5th-ave-brooklyn/5080680,5080680,HuevoRito,5 ratings,Mexican
+https://www.grubhub.com/restaurant/golden-ring-restaurant-4342-white-plains-rd-bronx/2055131,2055131,Golden Ring Restaurant,47 ratings,Breakfast
+https://www.grubhub.com/restaurant/bag-n-wich-384-2nd-ave-new-york/6934648,6934648,BAG-N-WICH,NA,Breakfast
+https://www.grubhub.com/restaurant/lindas-restaurant---71-main-st-hempstead/2894671,2894671,Linda's Restaurant -,7 ratings,Chicken
+https://www.grubhub.com/restaurant/nb-national-bakery-walton-ave-1193-walton-ave-bronx/2648207,2648207,NB National Bakery (Walton Ave),95 ratings,Bagel
+https://www.grubhub.com/restaurant/vics-vegan-deli-2574-coney-island-ave-brooklyn/3325638,3325638,Vic's Vegan Deli,4 ratings,Bodega
+https://www.grubhub.com/restaurant/smash-shack-26-1st-ave-new-york/3132553,3132553,Smash Shack,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/mels-melts-596-3rd-ave-new-york/2680908,2680908,Mel's Melts,4 ratings,Hamburger
+https://www.grubhub.com/restaurant/juice--tings-496-e-96th-st-brooklyn/2835896,2835896,Juice & tings,43 ratings,Healthy
+https://www.grubhub.com/restaurant/oakberry-aa-bowls--smoothies---greenwich-village-124-macdougal-st-new-york/2124872,2124872,Oakberry Açaí Bowls & Smoothies - Greenwich Village,145 ratings,Bowls
+https://www.grubhub.com/restaurant/pasta-kitchen-1354-amsterdam-ave-new-york/1171356,1171356,Pasta Kitchen,66 ratings,Pasta
+https://www.grubhub.com/restaurant/super-smash-burgers-336-franklin-avenue-brooklyn/3049405,3049405,Super Smash Burgers,38 ratings,Hamburger
+https://www.grubhub.com/restaurant/the-ivy-coffee--bakery-31-carmine-st-new-york/6829384,6829384,The Ivy Coffee & Bakery,9 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/dunkin-1379-halsey-st-brooklyn/1162429,1162429,Dunkin',105 ratings,Breakfast
+https://www.grubhub.com/restaurant/bos-bagels-235-w-116th-st-new-york/6863480,6863480,BO's Bagels,43 ratings,Bagel
+https://www.grubhub.com/restaurant/wild-philly-steak-1715-st-johns-pl-brooklyn/6052272,6052272,Wild Philly Steak,5 ratings,Fast Food
+https://www.grubhub.com/restaurant/elenis-goods-238-3rd-ave-new-york/7041120,7041120,Elenis Goods,NA,Coffee and Tea
+https://www.grubhub.com/restaurant/don-paco-lopez-panaderia-4703-4th-ave-brooklyn/1998623,1998623,Don Paco Lopez Panaderia,41 ratings,Mexican
+https://www.grubhub.com/restaurant/flapjacks-751-white-plains-rd-eastchester/6247432,6247432,Flapjacks,NA,Breakfast
+https://www.grubhub.com/restaurant/crawfords-coffee-bar--cafe-424-central-ave-cedarhurst/6078160,6078160,Crawfords Coffee Bar & Cafe,8 ratings,Breakfast
+https://www.grubhub.com/restaurant/city-light-wraps-93-avenue-a-new-york/3309846,3309846,City Light Wraps,NA,Fast Food
+https://www.grubhub.com/restaurant/chun-yang-tea-tribeca-107a-chambers-st-new-york/3278111,3278111,Chun Yang Tea Tribeca,89 ratings,American
+https://www.grubhub.com/restaurant/all-day-burritos-937-1st-avenue-new-york/2896883,2896883,All-Day Burritos,11 ratings,Mexican
+https://www.grubhub.com/restaurant/volare-espresso-bar-199-5th-ave-brooklyn/6545960,6545960,Volare Espresso Bar,NA,American
+https://www.grubhub.com/restaurant/two-friends-m--a-deli-130-02-atlantic-ave-south-richmond-hill/2626338,2626338,Two Friends M & A Deli,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/pancake-paradise-641-2nd-ave-new-york/4461128,4461128,Pancake Paradise,6 ratings,Breakfast
+https://www.grubhub.com/restaurant/892-e-tremont-av-liquors-inc-884-e-tremont-ave-bronx/6319752,6319752,892 E Tremont Av Liquors Inc,58 ratings,Alcohol
+https://www.grubhub.com/restaurant/trippies-strips--dips-89-21-northern-blvd-jackson-heights/6494976,6494976,Trippies Strips & Dips,NA,Fast Food
+https://www.grubhub.com/restaurant/cvs-69-80-grand-ave-maspeth/7256336,7256336,CVS,12 ratings,Convenience
+https://www.grubhub.com/restaurant/allans-cheesesteaks-1117-broadway-brooklyn/3312397,3312397,Allan's Cheesesteaks,3 ratings,Fast Food
+https://www.grubhub.com/restaurant/trippies-strips--dips-89-21-northern-blvd-jackson-heights/6494976,6494976,Trippies Strips & Dips,NA,Fast Food
+https://www.grubhub.com/restaurant/cvs-69-80-grand-ave-maspeth/7256336,7256336,CVS,12 ratings,Convenience
+https://www.grubhub.com/restaurant/allans-cheesesteaks-1117-broadway-brooklyn/3312397,3312397,Allan's Cheesesteaks,3 ratings,Fast Food
+https://www.grubhub.com/restaurant/famous-pizza-578-9th-ave-new-york/4879560,4879560,Famous Pizza,NA,Pizza
+https://www.grubhub.com/restaurant/anytime-breakfast-burritos-690-north-ave-new-rochelle/6036384,6036384,Anytime Breakfast Burritos,NA,Breakfast
+https://www.grubhub.com/restaurant/bagel-oven-24-mill-rd-eastchester/1711430,1711430,Bagel Oven,392 ratings,Breakfast
+https://www.grubhub.com/restaurant/chic-nuggets-spot-244-w-14th-st-new-york/2728292,2728292,Chic Nuggets Spot,NA,Fast Food
+https://www.grubhub.com/restaurant/cr7-gourmet-deli-26-1st-avenue-new-york/3097903,3097903,CR7 Gourmet Deli,7 ratings,Bodega
+https://www.grubhub.com/restaurant/vive-la-crpe-189-columbus-ave-new-york/2467443,2467443,Vive la Crêpe,109 ratings,Chicken
+https://www.grubhub.com/restaurant/kings-highway-deli-and-grill-165-kings-hwy-brooklyn/5293608,5293608,Kings Highway Deli and Grill,3 ratings,Hamburger
+https://www.grubhub.com/restaurant/sams-deli-xpress-1268-myrtle-ave-brooklyn/5755080,5755080,Sam's Deli Xpress,NA,Hamburger
+https://www.grubhub.com/restaurant/gregorys-coffee---122-e-42nd-street-122-e-42nd-st-new-york/1966319,1966319,Gregorys Coffee - 122 E 42nd Street,64 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/chicken-tender-love-30-402-w-34th-st-new-york/3200946,3200946,Chicken Tender Love (30),NA,American
+https://www.grubhub.com/restaurant/day-n-night-pancakes-9508-63rd-drive-rego-park/3252519,3252519,DAY N NIGHT PANCAKES,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/mille-feuille-bakery-552-laguardia-pl-new-york/384782,384782,Mille-Feuille Bakery,216 ratings,Bakery
+https://www.grubhub.com/restaurant/matto-espresso-696-lexington-avenue-new-york/4319712,4319712,Matto Espresso,14 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/7-eleven-101-04-metropolitan-ave-forest-hills/2231443,2231443,7-Eleven,77 ratings,Convenience
+https://www.grubhub.com/restaurant/mahant-inc-195-9th-ave-new-york/7230280,7230280,Mahant Inc,NA,Alcohol
+https://www.grubhub.com/restaurant/catherine-deli--bagels-43-catherine-st-new-york/4058168,4058168,Catherine Deli & Bagels,15 ratings,Breakfast
+https://www.grubhub.com/restaurant/breakfast-in-bed-164-nevins-st-brooklyn/7192040,7192040,Breakfast in Bed,NA,Breakfast
+https://www.grubhub.com/restaurant/amore-italiano-699-classon-ave-brooklyn/3132500,3132500,Amore Italiano,6 ratings,Italian
+https://www.grubhub.com/restaurant/dianas-flower-shop-2-1221-fteley-ave-bronx/7226808,7226808,Diana's Flower Shop 2,NA,Dessert
+https://www.grubhub.com/restaurant/breakfast-beauties-941-columbus-ave-new-york/7161656,7161656,Breakfast Beauties,4 ratings,Breakfast
+https://www.grubhub.com/restaurant/juice-press-225-liberty-st-new-york/3206327,3206327,Juice Press,24 ratings,Bowls
+https://www.grubhub.com/restaurant/stellas-pancake-bar-201-2nd-ave-new-york/3170727,3170727,Stella's Pancake Bar,NA,Dessert
+https://www.grubhub.com/restaurant/juice-generation-queens-520-47th-rd-long-island-city/2263901,2263901,Juice Generation (Queens),100 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/mias-breakfast-bar-lexington-ave-1101-lexington-ave-new-york/2785771,2785771,Mia's Breakfast Bar (Lexington Ave),NA,Breakfast
+https://www.grubhub.com/restaurant/the-one-breakfast-burrito-265-bedford-ave-brooklyn/3183577,3183577,The One Breakfast Burrito,12 ratings,Breakfast
+https://www.grubhub.com/restaurant/sullys-breakfast-sandwiches-154-7th-ave-new-york/3314432,3314432,Sully's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/tonic-juice-bar-2126-caton-ave-brooklyn/3222042,3222042,Tonic Juice Bar,5 ratings,Smoothies and Juices
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/kennedys-fried-chicken-469-e-tremont-ave-new-york/2747186,2747186,Kennedy’s Fried Chicken,180 ratings,Hamburger
+https://www.grubhub.com/restaurant/classic-cristos-154-7th-ave-new-york/3189542,3189542,Classic Cristos,4 ratings,Sandwich
+https://www.grubhub.com/restaurant/tortilleria-y-taqueria-lenchita-corp-616-e-183rd-st-bronx/4664040,4664040,Tortilleria y Taqueria Lenchita Corp,120 ratings,Mexican
+https://www.grubhub.com/restaurant/bakers-dozen-bagels-8109-lefferts-blvd-kew-gardens/89086,89086,Baker's Dozen Bagels,1727 ratings,Bagel
+https://www.grubhub.com/restaurant/truegreens-751-white-plains-rd-eastchester/5317704,5317704,Truegreens,NA,Salads
+https://www.grubhub.com/restaurant/brooklyn-natural-market--cafe-810-washington-ave-brooklyn/331220,331220,Brooklyn Natural Market & Cafe,2439 ratings,Convenience
+https://www.grubhub.com/restaurant/el-pitallito-mexican-restaurant-3854-broadway-ave-new-york/295886,295886,El Pitallito Mexican Restaurant,893 ratings,Mexican
+https://www.grubhub.com/restaurant/breads-bakery-union-square-e-16th-st-18-e-16th-st-new-york/2041025,2041025,Breads Bakery (Union Square) (E 16th St),697 ratings,Breakfast
+https://www.grubhub.com/restaurant/bagel-villa-7221-5th-ave-brooklyn/3213364,3213364,Bagel Villa,807 ratings,Bagel
+https://www.grubhub.com/restaurant/applebees-neighborhood-grill--bar-139-flatbush-ave-brooklyn/7556400,7556400,Applebee's Neighborhood Grill + Bar,25 ratings,Hamburger
+https://www.grubhub.com/restaurant/thats-a-wrap-1708-broadway-brooklyn/7466784,7466784,Thats a Wrap,NA,Breakfast
+https://www.grubhub.com/restaurant/east-coast-restaurant-658-rogers-ave-brooklyn/7692256,7692256,East Coast Restaurant,NA,Breakfast
+https://www.grubhub.com/restaurant/ateaz-organic-coffee--tea-11629-metropolitan-ave-richmond-hill/350429,350429,Ateaz Organic Coffee & Tea,877 ratings,Dessert
+https://www.grubhub.com/restaurant/caseys-quesadillas-38-01-vernon-blvd-new-york/6971488,6971488,Casey's Quesadillas,NA,Mexican
+https://www.grubhub.com/restaurant/smokin-burger-grille-618-north-ave-new-rochelle/6894584,6894584,Smokin' Burger Grille,NA,Hamburger
+https://www.grubhub.com/restaurant/dirty-burger-101-guyon-ave-staten-island/3038403,3038403,Dirty Burger,43 ratings,Hamburger
+https://www.grubhub.com/restaurant/happy-bowls---astor-place-61-4th-ave-new-york/515829,515829,Happy Bowls - Astor Place,1189 ratings,Breakfast
+https://www.grubhub.com/restaurant/subs-a-licious-130-9th-ave-new-york/7575240,7575240,Subs a Licious,NA,Sandwich
+https://www.grubhub.com/restaurant/bag-n-wich-union-tpke-11040-1564-union-tpke-north-new-hyde-park/5825192,5825192,Bag-n-wich Union Tpke 11040,NA,Bagel
+https://www.grubhub.com/restaurant/cj-cafe---utica-817-utica-ave-brooklyn/3154207,3154207,CJ Cafe - Utica,38 ratings,American
+https://www.grubhub.com/restaurant/joes-gourmet-920-columbus-ave-new-york/1391014,1391014,Joe’s Gourmet,284 ratings,Hamburger
+https://www.grubhub.com/restaurant/az-deli-649-e-169th-st-bronx/303156,303156,AZ Deli,2466 ratings,Pizza
+https://www.grubhub.com/restaurant/levain-bakery-1484-3rd-ave-new-york/6038712,6038712,Levain Bakery,438 ratings,Dessert
+https://www.grubhub.com/restaurant/mister-gnocchi-102-commerce-st-brooklyn/6743200,6743200,Mister Gnocchi,4 ratings,Italian
+https://www.grubhub.com/restaurant/seatide-gourmet-fish-market-5914-ave-n-brooklyn/724190,724190,Seatide Gourmet Fish Market,321 ratings,Seafood
+https://www.grubhub.com/restaurant/didis-healthy-delights-30-13-30th-ave-queens/3260308,3260308,Didi’s healthy delights,73 ratings,Bowls
+https://www.grubhub.com/restaurant/little-italy-pizza-671-8th-ave-new-york/5270768,5270768,Little Italy Pizza,47 ratings,Pizza
+https://www.grubhub.com/restaurant/smile-to-go-23-lexington-ave-new-york/2490812,2490812,Smile To Go,73 ratings,Breakfast
+https://www.grubhub.com/restaurant/thai-mis-delicias-truck-2-130-5th-ave-new-york/835135,835135,Thai Mis Delicias Truck #2,87 ratings,Asian
+https://www.grubhub.com/restaurant/pariscien-cafe-bakery-4823-4th-ave-brooklyn/2578740,2578740,Pariscien Cafe Bakery,100 ratings,Hamburgers
+https://www.grubhub.com/restaurant/3-towns-cafe-25-68-francis-lewis-boulevard-queens/5996816,5996816,3 Towns Cafe,8 ratings,American
+https://www.grubhub.com/restaurant/happyboards-cheese--charcuterie-196-stanton-st-new-york/3164816,3164816,HappyBoards Cheese & Charcuterie,29 ratings,Dessert
+https://www.grubhub.com/restaurant/rockaway-express-deli-114-02-rockaway-blvd-south-ozone-park/2490015,2490015,Rockaway Express Deli,51 ratings,Hamburger
+https://www.grubhub.com/restaurant/salam-deli--grill-corp-597-flatbush-ave-brooklyn/6622144,6622144,Salam Deli & Grill Corp,NA,Deli
+https://www.grubhub.com/restaurant/rinconcito-tepeyac-381-e-138st-bronx/1106015,1106015,Rinconcito Tepeyac,123 ratings,Mexican
+https://www.grubhub.com/restaurant/donde-juana-restaurant-10701-37th-ave-corona/7428384,7428384,Donde Juana Restaurant,8 ratings,Breakfast
+https://www.grubhub.com/restaurant/bagels-r-us-4300-amboy-rd-staten-island/2617180,2617180,Bagels r us,141 ratings,Bagel
+https://www.grubhub.com/restaurant/house-of-saturn-18-18-college-point-blvd-queens/3105869,3105869,House of Saturn,74 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/applejack-diner-1725-broadway-ave-new-york/65547,65547,Applejack Diner,380 ratings,Hamburger
+https://www.grubhub.com/restaurant/main-street-coffee-173-main-st-staten-island/2560867,2560867,Main Street Coffee,153 ratings,Breakfast
+https://www.grubhub.com/restaurant/copper-mug-131-n-4th-st-brooklyn/1946349,1946349,Copper Mug,167 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/highridge-bagel-factory-1805-central-park-ave-yonkers/5707272,5707272,Highridge Bagel Factory,191 ratings,Bagel
+https://www.grubhub.com/restaurant/good-thanks-374-graham-avenue-brooklyn/5587576,5587576,Good Thanks,29 ratings,Breakfast
+https://www.grubhub.com/restaurant/grilled-cheese-society-117-25-farmers-blvd-queens/3185056,3185056,Grilled Cheese Society,7 ratings,American
+https://www.grubhub.com/restaurant/pennys-pancakes-59-4th-ave-new-york/3310181,3310181,Penny's Pancakes,NA,Breakfast
+https://www.grubhub.com/restaurant/nyc-mac-truck-2333-hylan-boulevard-staten-island/6098712,6098712,NYC Mac Truck,NA,Bowls
+https://www.grubhub.com/restaurant/bagels-n-a-hole-lot-more-2337-jericho-turnpike-garden-city-park/2576546,2576546,Bagels N A Hole Lot More,239 ratings,Breakfast
+https://www.grubhub.com/restaurant/nyc-bagel-and-coffee-house-29-08-23rd-ave-queens/2367089,2367089,NYC Bagel and Coffee House,1445 ratings,Bagel
+https://www.grubhub.com/restaurant/super-smoothie-826-9th-ave-new-york/2540592,2540592,Super Smoothie,61 ratings,Bagels
+https://www.grubhub.com/restaurant/toastys-breakfast-burritos-37-kenmare-st-new-york/7143928,7143928,Toasty's Breakfast Burritos,3 ratings,Breakfast
+https://www.grubhub.com/restaurant/taqueria-los-primos-43-35-91st-pl-elmhurst/6855784,6855784,Taqueria los Primos,8 ratings,Mexican
+https://www.grubhub.com/restaurant/caridad-restaurant-express-18-e-gun-hill-rd-bronx/3319130,3319130,CARIDAD RESTAURANT EXPRESS,8 ratings,Chicken
+https://www.grubhub.com/restaurant/quesadilla-point-north-ave-288-north-avenue-new-rochelle/4100544,4100544,Quesadilla Point (North Ave),3 ratings,Mexican
+https://www.grubhub.com/restaurant/rice-bowl-98-53-63rd-rd-flushing-queens/5823888,5823888,Rice Bowl,NA,Asian Fusion
+https://www.grubhub.com/restaurant/little-pizza-master-658-9th-ave-new-york/5115576,5115576,Little Pizza Master,NA,Pizza
+https://www.grubhub.com/restaurant/heavens-burgers-433-w-34th-st-new-york/3326398,3326398,Heaven's Burgers,5 ratings,Hamburger
+https://www.grubhub.com/restaurant/knuckle-sandwiches-38-01-vernon-blvd-new-york/6969960,6969960,Knuckle Sandwiches,NA,Sandwiches
+https://www.grubhub.com/restaurant/beach-cafe-1326-2nd-ave-new-york/356819,356819,Beach Cafe,305 ratings,Hamburger
+https://www.grubhub.com/restaurant/sky-club-5701-arlington-avenue-the-bronx/6137984,6137984,Sky Club,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/sanford--son-sandwiches-1630-madison-ave-new-york/7320432,7320432,Sanford & Son Sandwiches,NA,Sandwich
+https://www.grubhub.com/restaurant/gold-coffee-491-3rd-ave-new-york/6829320,6829320,Gold coffee,NA,Dessert
+https://www.grubhub.com/restaurant/earlybird-5628-mosholu-ave-bronx/3074696,3074696,earlybird,44 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/burrito-n-shine-154-7th-ave-new-york/5268096,5268096,Burrito N Shine,NA,Breakfast
+https://www.grubhub.com/restaurant/heavenly-market-and-deli-77-3rd-ave-new-york/658677,658677,Heavenly Market and Deli,642 ratings,Dessert
+https://www.grubhub.com/restaurant/r-patisserie-cafe--tea-boutique-302-huguenot-st-new-rochelle/2970909,2970909,R Patisserie Cafe & Tea Boutique,105 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/3m-bar--grill-inc-119-15-liberty-ave-south-richmond-hill/5178976,5178976,3M BAR & GRILL INC.,9 ratings,Indian
+https://www.grubhub.com/restaurant/sutton-cafe-1026-1st-ave-new-york/284726,284726,Sutton Cafe,254 ratings,Hamburger
+https://www.grubhub.com/restaurant/adams-bagels--deli-woodhaven-blvd-flushing-old-name-63-56-woodhaven-blvd-queens/6748280,6748280,"Adam's Bagels & Deli (Woodhaven Blvd, Flushing) (old name)",165 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-casa-de-los-antojitos-8108-37th-ave-1fl-jackson-heights/4836472,4836472,LA CASA DE LOS ANTOJITOS,7 ratings,Mexican
+https://www.grubhub.com/restaurant/benvenuto-italian-pizza-182-audubon-avenue-new-york/3290273,3290273,Benvenuto Italian Pizza,21 ratings,Pizza
+https://www.grubhub.com/restaurant/crispy-chick-578-9th-ave-new-york/5333176,5333176,Crispy Chick,4 ratings,Chicken
+https://www.grubhub.com/restaurant/kennedy-fried-chicken-253-e-167th-st-bronx/2934654,2934654,Kennedy Fried Chicken,17 ratings,Fast Food
+https://www.grubhub.com/restaurant/amys-deli-7106-kissena-blvd-flushing/1284615,1284615,Amy’s Deli,795 ratings,Convenience
+https://www.grubhub.com/restaurant/fitrition-28-03-astoria-blvd-new-york/2120895,2120895,Fitrition,308 ratings,Bowls
+https://www.grubhub.com/restaurant/la-hueca-epa-104-22-northern-blvd-flushing-queens/3135671,3135671,La Hueca Epa,6 ratings,Mexican
+https://www.grubhub.com/restaurant/kashmir-halal-gyro-1206-remsen-ave-brooklyn/6537200,6537200,Kashmir Halal Gyro,7 ratings,Chicken
+https://www.grubhub.com/restaurant/chunky-burger-35-55-31st-st-queens/2498508,2498508,Chunky Burger,13 ratings,Hamburger
+https://www.grubhub.com/restaurant/artisanal-italian-pizza-1614-sheepshead-bay-rd-brooklyn/2978635,2978635,Artisanal Italian Pizza,5 ratings,Pizza
+https://www.grubhub.com/restaurant/wondas-wrap-cafe-769-9th-ave-new-york/4515752,4515752,Wonda's Wrap Cafe,NA,Fast Food
+https://www.grubhub.com/restaurant/pb--jellys-2803-avenue-u-brooklyn/5346416,5346416,PB & Jellys,NA,American
+https://www.grubhub.com/restaurant/king-cross-bay-deli-grocery-132-10-cross-bay-blvd-queens/6383448,6383448,King Cross Bay Deli& Grocery,NA,Fast Food
+https://www.grubhub.com/restaurant/jerusalem-bagels-64-48-108th-st-forest-hills/2410018,2410018,Jerusalem Bagels,229 ratings,Bagel
+https://www.grubhub.com/restaurant/the-waffle-spot-dyckman-st-158-dyckman-st-new-york/3039814,3039814,The Waffle Spot (Dyckman St),51 ratings,Breakfast
+https://www.grubhub.com/restaurant/brews-smash-burgers-57-4th-ave-brooklyn/3145013,3145013,Brew’s Smash Burgers,4 ratings,Hamburger
+https://www.grubhub.com/restaurant/middletown-deli-and-convenience-2959-middletown-rd-bronx/2309150,2309150,Middletown Deli and Convenience,87 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-manguito-deli-1511-jericho-turnpike-new-hyde-park/1285857,1285857,El Manguito Deli,95 ratings,Mexican
+https://www.grubhub.com/restaurant/knuckle-sandwiches-560-e-149th-st-bronx/7134648,7134648,Knuckle Sandwiches,NA,Sandwich
+https://www.grubhub.com/restaurant/i-got-the-juice-corp-579-main-st-ste-a-new-rochelle/1160099,1160099,I Got The Juice Corp,89 ratings,Breakfast
+https://www.grubhub.com/restaurant/zahirul-convenience-445-7th-ave-brooklyn/3196197,3196197,Zahirul convenience,NA,American
+https://www.grubhub.com/restaurant/turkish-pizza-1614-sheepshead-bay-rd-brooklyn/2978637,2978637,TURKISH PIZZA,5 ratings,Pizza
+https://www.grubhub.com/restaurant/cafe-bravo-352-9th-avenue-new-york/6734200,6734200,Cafe Bravo,6 ratings,Breakfast
+https://www.grubhub.com/restaurant/bosscat-cheesesteaks-31-00-47th-ave-queens/6892320,6892320,Bosscat Cheesesteaks,NA,American
+https://www.grubhub.com/restaurant/neighborhood-cafe-1463-york-ave-new-york/3278053,3278053,Neighborhood Cafe,12 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-green-29-05-36th-ave-astoria/7613192,7613192,The Green,NA,American
+https://www.grubhub.com/restaurant/wings-vs-fries-578-9th-avenue-new-york/5217472,5217472,Wings Vs Fries,NA,Fast Food
+https://www.grubhub.com/restaurant/chelsea-papaya-225-7th-ave-new-york/546513,546513,Chelsea Papaya,162 ratings,Hamburger
+https://www.grubhub.com/restaurant/burger-goddess-34-02-30th-st-astoria/2298614,2298614,Burger Goddess,26 ratings,Hamburger
+https://www.grubhub.com/restaurant/baked-by-melissa-2325-broadway-new-york/383232,383232,Baked by Melissa,98 ratings,Dessert
+https://www.grubhub.com/restaurant/the-cheeseburger-paradise-353-w-125th-st-new-york/3310131,3310131,The Cheeseburger Paradise,NA,Hamburger
+https://www.grubhub.com/restaurant/cold-stone-creamery-162-11-jamaica-ave-jamaica/7606344,7606344,Cold Stone Creamery,15 ratings,Dessert
+https://www.grubhub.com/restaurant/hh-bagels-mth-383-w-31st-st-new-york/2841231,2841231,H&H Bagels MTH,64 ratings,Bagel
+https://www.grubhub.com/restaurant/tacos-el-coyote-1320-jerome-ave-bronx/5829584,5829584,Tacos El Coyote,4 ratings,Mexican
+https://www.grubhub.com/restaurant/brooklyn-bagel-and-coffee-co-36-14-30th-ave-woodside/1983460,1983460,Brooklyn Bagel and Coffee Co,2494 ratings,Bagel
+https://www.grubhub.com/restaurant/tinton-gourmet-deli-643-tinton-ave-bronx/6729216,6729216,Tinton Gourmet Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/bleeckers-finest-deli-171-bleecker-st-new-york/277403,277403,Bleecker's Finest Deli,902 ratings,Convenience
+https://www.grubhub.com/restaurant/tropic-berry-cafe-45-1st-ave-new-york/1269170,1269170,Tropic Berry Cafe,53 ratings,Bowls
+https://www.grubhub.com/restaurant/morrone-pastry-shop-2349-arthur-ave-bronx/3135988,3135988,morrone pastry shop,17 ratings,Dessert
+https://www.grubhub.com/restaurant/butter-chicken-kitchen-658-9th-ave-new-york/3154476,3154476,Butter Chicken Kitchen,NA,American
+https://www.grubhub.com/restaurant/philly-pretzel-factory-2105-hillside-avenue-north-new-hyde-park/2604611,2604611,Philly Pretzel Factory,62 ratings,Bakery
+https://www.grubhub.com/restaurant/huevorito-6111-5th-ave-brooklyn/5080680,5080680,HuevoRito,5 ratings,Mexican
+https://www.grubhub.com/restaurant/golden-ring-restaurant-4342-white-plains-rd-bronx/2055131,2055131,Golden Ring Restaurant,47 ratings,Breakfast
+https://www.grubhub.com/restaurant/bag-n-wich-384-2nd-ave-new-york/6934648,6934648,BAG-N-WICH,NA,Breakfast
+https://www.grubhub.com/restaurant/lindas-restaurant---71-main-st-hempstead/2894671,2894671,Linda's Restaurant -,7 ratings,Chicken
+https://www.grubhub.com/restaurant/botanical-market-2220-boston-rd-bronx/2435039,2435039,Botanical Market,199 ratings,Convenience
+https://www.grubhub.com/restaurant/nb-national-bakery-walton-ave-1193-walton-ave-bronx/2648207,2648207,NB National Bakery (Walton Ave),95 ratings,Bagel
+https://www.grubhub.com/restaurant/vics-vegan-deli-2574-coney-island-ave-brooklyn/3325638,3325638,Vic's Vegan Deli,4 ratings,Bodega
+https://www.grubhub.com/restaurant/francesco-pasta-ristorante-452-seneca-ave-glendale/2796312,2796312,Francesco Pasta Ristorante,14 ratings,Italian
+https://www.grubhub.com/restaurant/smash-shack-26-1st-ave-new-york/3132553,3132553,Smash Shack,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/mufasas-pancakes--french-toast-93-avenue-a-new-york/3309772,3309772,Mufasa's Pancakes & French Toast,NA,Breakfast
+https://www.grubhub.com/restaurant/fetty-wrap-769-9th-ave-new-york/5274616,5274616,Fetty Wrap,NA,Sandwiches
+https://www.grubhub.com/restaurant/coffee--green-2106-36th-ave-astoria/356860,356860,Coffee & Green,1219 ratings,Breakfast
+https://www.grubhub.com/restaurant/burros-breakfast-burritos-1454-86th-st-brooklyn/3255002,3255002,Burro's Breakfast Burritos,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/chateau-shawarma-257-gold-st-brooklyn/2682822,2682822,Chateau Shawarma,21 ratings,Mediterranean
+https://www.grubhub.com/restaurant/bklyn-juice-214-flatbush-avenue-brooklyn/4653384,4653384,BKLYN JUICE,11 ratings,American
+https://www.grubhub.com/restaurant/mels-melts-596-3rd-ave-new-york/2680908,2680908,Mel's Melts,4 ratings,Hamburger
+https://www.grubhub.com/restaurant/naturesblooms-341-e-76th-st-new-york/6066424,6066424,NaturesBlooms,NA,American
+https://www.grubhub.com/restaurant/sweets--masala-153-33-hillside-avenue-jamaica/1703711,1703711,Sweets & Masala,52 ratings,Indian
+https://www.grubhub.com/restaurant/hi-smiley-foodmart-inc-107-main-st-dobbs-ferry/3207216,3207216,Hi Smiley Foodmart Inc,4 ratings,Breakfast
+https://www.grubhub.com/restaurant/anytime-breakfast-sandwiches-4-3579-victory-blvd-staten-island/3199056,3199056,Anytime Breakfast Sandwiches (4),NA,Breakfast
+https://www.grubhub.com/restaurant/le-cafe-coffee-661-lexington-ave-new-york/743908,743908,Le Cafe Coffee,169 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/concourse-gourmet-deli-845-concourse-village-w-bronx/2736871,2736871,Concourse Gourmet Deli,40 ratings,Hamburger
+https://www.grubhub.com/restaurant/green-chilli-11222-101st-ave-south-richmond-hill-new-york/6260408,6260408,Green Chilli,NA,Indian
+https://www.grubhub.com/restaurant/juice--tings-496-e-96th-st-brooklyn/2835896,2835896,Juice & tings,43 ratings,Healthy
+https://www.grubhub.com/restaurant/heaven-on-7th-marketplace-850-7th-ave-new-york/6443064,6443064,Heaven on 7th Marketplace,13 ratings,Convenience
+https://www.grubhub.com/restaurant/egghead-breakfast-burritos-1050-flushing-ave-brooklyn/2592717,2592717,Egghead Breakfast Burritos,55 ratings,Breakfast
+https://www.grubhub.com/restaurant/oakberry-aa-bowls--smoothies---greenwich-village-124-macdougal-st-new-york/2124872,2124872,Oakberry Açaí Bowls & Smoothies - Greenwich Village,145 ratings,Bowls
+https://www.grubhub.com/restaurant/pasta-kitchen-1354-amsterdam-ave-new-york/1171356,1171356,Pasta Kitchen,66 ratings,Pasta
+https://www.grubhub.com/restaurant/super-smash-burgers-336-franklin-avenue-brooklyn/3049405,3049405,Super Smash Burgers,38 ratings,Hamburger
+https://www.grubhub.com/restaurant/hot-bagels-and-bialys-1909-avenue-u-brooklyn/6537176,6537176,Hot Bagels and Bialys,NA,Bagel
+https://www.grubhub.com/restaurant/the-ivy-coffee--bakery-31-carmine-st-new-york/6829384,6829384,The Ivy Coffee & Bakery,9 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/the-juice-empire-755-9th-ave-new-york/3310203,3310203,The Juice Empire,NA,American
+https://www.grubhub.com/restaurant/nahars-subs-and-shakes-corp-144-32-liberty-ave-jamaica/3344223,3344223,Nahars subs and shakes corp,NA,Hamburger
+https://www.grubhub.com/restaurant/verazano-deli--juice-bar-9504-4th-avenue-brooklyn/7438840,7438840,Verazano Deli & Juice Bar,9 ratings,Bagels
+https://www.grubhub.com/restaurant/dunkin-1379-halsey-st-brooklyn/1162429,1162429,Dunkin',105 ratings,Breakfast
+https://www.grubhub.com/restaurant/bos-bagels-235-w-116th-st-new-york/6863480,6863480,BO's Bagels,43 ratings,Bagel
+https://www.grubhub.com/restaurant/wild-philly-steak-1715-st-johns-pl-brooklyn/6052272,6052272,Wild Philly Steak,5 ratings,Fast Food
+https://www.grubhub.com/restaurant/bleecker-street-stromboli-707-9th-ave-new-york/5369200,5369200,Bleecker street Stromboli,NA,Calzones
+https://www.grubhub.com/restaurant/park-ave-convenience-corp-1080-park-ave-new-york/2630714,2630714,Park Ave Convenience Corp,51 ratings,Bodega
+https://www.grubhub.com/restaurant/elenis-goods-238-3rd-ave-new-york/7041120,7041120,Elenis Goods,NA,Coffee and Tea
+https://www.grubhub.com/restaurant/smokeys-bbq-sandwiches-31-91-21st-st-astoria/2365589,2365589,Smokey's BBQ Sandwiches,23 ratings,BBQ
+https://www.grubhub.com/restaurant/don-paco-lopez-panaderia-4703-4th-ave-brooklyn/1998623,1998623,Don Paco Lopez Panaderia,41 ratings,Mexican
+https://www.grubhub.com/restaurant/pretzelmaker-88-01-queens-blvd-forest-hills/3009997,3009997,Pretzelmaker,18 ratings,Lunch
+https://www.grubhub.com/restaurant/flapjacks-751-white-plains-rd-eastchester/6247432,6247432,Flapjacks,NA,Breakfast
+https://www.grubhub.com/restaurant/crawfords-coffee-bar--cafe-424-central-ave-cedarhurst/6078160,6078160,Crawfords Coffee Bar & Cafe,8 ratings,Breakfast
+https://www.grubhub.com/restaurant/grocery-juice-bar-1616-bruckner-blvd-the-bronx/6507144,6507144,Grocery Juice Bar,NA,Salads
+https://www.grubhub.com/restaurant/neighborhood-cafe-5993-broadway-bronx/3254797,3254797,Neighborhood Cafe,4 ratings,Breakfast
+https://www.grubhub.com/restaurant/bento-sushi-685-3rd-ave-new-york/311039,311039,Bento Sushi,105 ratings,Asian
+https://www.grubhub.com/restaurant/supreme-acai-826-9th-ave-new-york/2547925,2547925,Supreme Acai,43 ratings,Dessert
+https://www.grubhub.com/restaurant/mermaid-fish-market-867-nostrand-ave-brooklyn/6211808,6211808,Mermaid Fish Market,13 ratings,Seafood
+https://www.grubhub.com/restaurant/maas-deli-618-north-ave-new-rochelle/5213352,5213352,Maas Deli,NA,Chicken
+https://www.grubhub.com/restaurant/bennys-deli--catering-465-fairview-ave-ridgewood/2168887,2168887,Benny's Deli & Catering,50 ratings,Hamburger
+https://www.grubhub.com/restaurant/tal-bagels-1324-lexington-ave-new-york/2809924,2809924,tal bagels,312 ratings,Bagel
+https://www.grubhub.com/restaurant/city-light-wraps-93-avenue-a-new-york/3309846,3309846,City Light Wraps,NA,Fast Food
+https://www.grubhub.com/restaurant/oakberry-acai-bowls--smoothies--upper-west-166-w-72nd-st-new-york/5630080,5630080,Oakberry Acai Bowls & Smoothies | Upper West,97 ratings,Bowls
+https://www.grubhub.com/restaurant/hillside-cheese-steak--sides-164-01-hillside-avenue-jamaica/3315531,3315531,HILLSIDE CHEESE STEAK & SIDES,6 ratings,Cheesesteaks
+https://www.grubhub.com/restaurant/chun-yang-tea-tribeca-107a-chambers-st-new-york/3278111,3278111,Chun Yang Tea Tribeca,89 ratings,American
+https://www.grubhub.com/restaurant/all-day-burritos-937-1st-avenue-new-york/2896883,2896883,All-Day Burritos,11 ratings,Mexican
+https://www.grubhub.com/restaurant/garbage-pizza-578-9th-ave-new-york/5333160,5333160,Garbage Pizza,3 ratings,Pizza
+https://www.grubhub.com/restaurant/volare-espresso-bar-199-5th-ave-brooklyn/6545960,6545960,Volare Espresso Bar,NA,American
+https://www.grubhub.com/restaurant/two-friends-m--a-deli-130-02-atlantic-ave-south-richmond-hill/2626338,2626338,Two Friends M & A Deli,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/pancake-paradise-641-2nd-ave-new-york/4461128,4461128,Pancake Paradise,6 ratings,Breakfast
+https://www.grubhub.com/restaurant/892-e-tremont-av-liquors-inc-884-e-tremont-ave-bronx/6319752,6319752,892 E Tremont Av Liquors Inc,58 ratings,Alcohol
+https://www.grubhub.com/restaurant/jp-runway-cafe-14-s-service-rd-jamaica/2650794,2650794,JP Runway Cafe,NA,Hamburger
+https://www.grubhub.com/restaurant/le-reveil-coffee-shop-1322-2nd-ave-new-york/848862,848862,Le Reveil Coffee Shop,171 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/trippies-strips--dips-89-21-northern-blvd-jackson-heights/6494976,6494976,Trippies Strips & Dips,NA,Fast Food
+https://www.grubhub.com/restaurant/cvs-69-80-grand-ave-maspeth/7256336,7256336,CVS,12 ratings,Convenience
+https://www.grubhub.com/restaurant/heavenly-market-384-2nd-ave-new-york/6823576,6823576,Heavenly Market,NA,Breakfast
+https://www.grubhub.com/restaurant/allans-cheesesteaks-1117-broadway-brooklyn/3312397,3312397,Allan's Cheesesteaks,3 ratings,Fast Food
+https://www.grubhub.com/restaurant/chelsea-papaya-171-w-23rd-st-new-york/265791,265791,Chelsea Papaya,333 ratings,Pizza
+https://www.grubhub.com/restaurant/foglia-di-fico-1697-broadway-new-york/2820574,2820574,Foglia di Fico,49 ratings,Pizza
+https://www.grubhub.com/restaurant/famous-pizza-578-9th-ave-new-york/4879560,4879560,Famous Pizza,NA,Pizza
+https://www.grubhub.com/restaurant/anytime-breakfast-burritos-690-north-ave-new-rochelle/6036384,6036384,Anytime Breakfast Burritos,NA,Breakfast
+https://www.grubhub.com/restaurant/papas-panini-34-02-30th-st-astoria/3300658,3300658,Papa's Panini,4 ratings,Italian
+https://www.grubhub.com/restaurant/3-hands-deli-and-grill-231-34-merrick-blvd-laurelton/2649781,2649781,3 Hands Deli and Grill,4 ratings,Hamburger
+https://www.grubhub.com/restaurant/bagel-oven-24-mill-rd-eastchester/1711430,1711430,Bagel Oven,392 ratings,Breakfast
+https://www.grubhub.com/restaurant/breakfast-at-tias-38-01-vernon-blvd-new-york/6969952,6969952,Breakfast at Tia's,NA,Breakfast
+https://www.grubhub.com/restaurant/chic-nuggets-spot-244-w-14th-st-new-york/2728292,2728292,Chic Nuggets Spot,NA,Fast Food
+https://www.grubhub.com/restaurant/cr7-gourmet-deli-26-1st-avenue-new-york/3097903,3097903,CR7 Gourmet Deli,7 ratings,Bodega
+https://www.grubhub.com/restaurant/vive-la-crpe-189-columbus-ave-new-york/2467443,2467443,Vive la Crêpe,109 ratings,Chicken
+https://www.grubhub.com/restaurant/kings-highway-deli-and-grill-165-kings-hwy-brooklyn/5293608,5293608,Kings Highway Deli and Grill,3 ratings,Hamburger
+https://www.grubhub.com/restaurant/sams-deli-xpress-1268-myrtle-ave-brooklyn/5755080,5755080,Sam's Deli Xpress,NA,Hamburger
+https://www.grubhub.com/restaurant/breakfast-in-bed-1735-washington-ave-bronx/3252882,3252882,Breakfast in Bed,3 ratings,Breakfast
+https://www.grubhub.com/restaurant/prince-deli--juice-bar-1510-cortelyou-rd-brooklyn/6060704,6060704,Prince Deli & Juice Bar,NA,Hamburger
+https://www.grubhub.com/restaurant/gregorys-coffee---122-e-42nd-street-122-e-42nd-st-new-york/1966319,1966319,Gregorys Coffee - 122 E 42nd Street,64 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/n7-market-deli-183-bedford-ave-brooklyn/6498720,6498720,N7 Market Deli,5 ratings,American
+https://www.grubhub.com/restaurant/sundays-bakery--juice-bar-1926-cross-bronx-expressway-the-bronx/7621600,7621600,Sunday's Bakery & Juice Bar,4 ratings,Dessert
+https://www.grubhub.com/restaurant/delancey-gourmet-deli-50-delancey-street-new-york/2970842,2970842,Delancey Gourmet Deli,17 ratings,Breakfast
+https://www.grubhub.com/restaurant/chicken-tender-love-30-402-w-34th-st-new-york/3200946,3200946,Chicken Tender Love (30),NA,American
+https://www.grubhub.com/restaurant/high-life-breakfast-sandwiches-612-11th-ave-new-york/6891016,6891016,High Life Breakfast Sandwiches,NA,Dinner
+https://www.grubhub.com/restaurant/day-n-night-pancakes-9508-63rd-drive-rego-park/3252519,3252519,DAY N NIGHT PANCAKES,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/metro-deli-54-43-metropolitan-ave-queens/7684160,7684160,Metro Deli,NA,American
+https://www.grubhub.com/restaurant/square-two-luncheonette-90-new-main-st-yonkers/4608504,4608504,Square Two Luncheonette,21 ratings,Breakfast
+https://www.grubhub.com/restaurant/bangkok-sweets-331-lexington-ave-new-york/1454810,1454810,Bangkok Sweets,14 ratings,Thai
+https://www.grubhub.com/restaurant/indian-biryani-snob-724-10th-ave-new-york/3310025,3310025,Indian Biryani Snob,NA,Indian
+https://www.grubhub.com/restaurant/mille-feuille-bakery-552-laguardia-pl-new-york/384782,384782,Mille-Feuille Bakery,216 ratings,Bakery
+https://www.grubhub.com/restaurant/matto-espresso-696-lexington-avenue-new-york/4319712,4319712,Matto Espresso,14 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/lucky-halal-food-22-green-acres-rd-s-valley-stream/3159469,3159469,Lucky Halal Food,NA,Chicken
+https://www.grubhub.com/restaurant/7-eleven-101-04-metropolitan-ave-forest-hills/2231443,2231443,7-Eleven,77 ratings,Convenience
+https://www.grubhub.com/restaurant/di-juice-243-14-merrick-blvd-queens/6922184,6922184,Di Juice,3 ratings,Bakery
+https://www.grubhub.com/restaurant/mahant-inc-195-9th-ave-new-york/7230280,7230280,Mahant Inc,NA,Alcohol
+https://www.grubhub.com/restaurant/c--d-liquor-store-92-14-jamaica-ave-queens/6267400,6267400,C & D Liquor Store,46 ratings,Alcohol
+https://www.grubhub.com/restaurant/breakfast-club-1810-3rd-ave-new-york/3109802,3109802,Breakfast Club,42 ratings,Breakfast
+https://www.grubhub.com/restaurant/cute-cat-cafe-6669-fresh-pond-rd-ridgewood/3188870,3188870,Cute Cat Cafe,9 ratings,Breakfast
+https://www.grubhub.com/restaurant/farmers-burger-11725-farmers-blvd-queens/3136039,3136039,Farmers Burger,3 ratings,Hamburger
+https://www.grubhub.com/restaurant/the-smooth-eaze-1219-1st-ave-new-york/2896402,2896402,The Smooth Eaze,NA,Fast Food
+https://www.grubhub.com/restaurant/k-and-s-laurelton-mini-mart-224-3-141st-ave-laurelton/2045549,2045549,K and S Laurelton Mini Mart,NA,Breakfast
+https://www.grubhub.com/restaurant/sunny--fines-breakfast-burritos-3139-fulton-st-brooklyn/3221906,3221906,Sunny & Fine's Breakfast Burritos,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-543-metropolitan-ave-brooklyn/6341360,6341360,Brooklyn Roasting Company,4 ratings,Dessert
+https://www.grubhub.com/restaurant/lulus-9118-59th-ave-queens/2868020,2868020,Lulu's,8 ratings,Pizza
+https://www.grubhub.com/restaurant/catherine-deli--bagels-43-catherine-st-new-york/4058168,4058168,Catherine Deli & Bagels,15 ratings,Breakfast
+https://www.grubhub.com/restaurant/flippers-nyc-337-w-broadway-new-york/2045273,2045273,Flipper's NYC,14 ratings,Bubble Tea
+https://www.grubhub.com/restaurant/broadway-spirits-299-broadway-new-york/2290086,2290086,Broadway Spirits,83 ratings,Alcohol
+https://www.grubhub.com/restaurant/the-minister-wraps-1760-3rd-ave-new-york/2794275,2794275,The Minister Wraps,NA,Dessert
+https://www.grubhub.com/restaurant/breakfast-in-bed-164-nevins-st-brooklyn/7192040,7192040,Breakfast in Bed,NA,Breakfast
+https://www.grubhub.com/restaurant/pressed-retail-337-park-ave-s-new-york/383481,383481,Pressed Retail,337 ratings,Breakfast
+https://www.grubhub.com/restaurant/breakfast-town-475-60th-st-brooklyn/3246239,3246239,Breakfast Town,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/dough-10-rockefeller-center-48th-st-between-5th--6th-ave-new-york/2875248,2875248,Dough,43 ratings,Dessert
+https://www.grubhub.com/restaurant/casa-di-ravioli-628-hudson-street-new-york/4689800,4689800,Casa di Ravioli,3 ratings,Dessert
+https://www.grubhub.com/restaurant/horus-cafe-293-e-10th-st-new-york/2193349,2193349,Horus Cafe,15 ratings,Mediterranean
+https://www.grubhub.com/restaurant/dough-21-70-31st-st-astoria/2756535,2756535,Dough,40 ratings,Bakery
+https://www.grubhub.com/restaurant/pariscien-bakery-99-21-northern-blvd-corona/2895438,2895438,Pariscien Bakery,27 ratings,Bakery
+https://www.grubhub.com/restaurant/amore-italiano-699-classon-ave-brooklyn/3132500,3132500,Amore Italiano,6 ratings,Italian
+https://www.grubhub.com/restaurant/-the-emperors-dish-811-55th-st-brooklyn/5213424,5213424,豫园府 The Emperors Dish,18 ratings,Asian
+https://www.grubhub.com/restaurant/dianas-flower-shop-2-1221-fteley-ave-bronx/7226808,7226808,Diana's Flower Shop 2,NA,Dessert
+https://www.grubhub.com/restaurant/moa-coffee-woodside-61-08-woodside-ave-woodside/6252224,6252224,Moa Coffee Woodside,24 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/breakfast-beauties-941-columbus-ave-new-york/7161656,7161656,Breakfast Beauties,4 ratings,Breakfast
+https://www.grubhub.com/restaurant/juice-press-225-liberty-st-new-york/3206327,3206327,Juice Press,24 ratings,Bowls
+https://www.grubhub.com/restaurant/stellas-pancake-bar-201-2nd-ave-new-york/3170727,3170727,Stella's Pancake Bar,NA,Dessert
+https://www.grubhub.com/restaurant/wtc2-halal-food-81-barclay-st-new-york/1784252,1784252,WTC2 Halal Food,42 ratings,Halal
+https://www.grubhub.com/restaurant/wonderland-wraps-217-1st-avenue-new-york/2821699,2821699,Wonderland Wraps,4 ratings,Dessert
+https://www.grubhub.com/restaurant/high-burgers-30-402-w-34th-st-new-york/3201417,3201417,High Burgers (30),3 ratings,American
+https://www.grubhub.com/restaurant/juice-generation-queens-520-47th-rd-long-island-city/2263901,2263901,Juice Generation (Queens),100 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/scramble-town-cafe-1306-atlantic-ave-brooklyn/3267095,3267095,Scramble Town Cafe,NA,Breakfast
+https://www.grubhub.com/restaurant/chicky-chicky-642-9th-ave-new-york/1171543,1171543,ChicKy ChicKy,12 ratings,Calzones
+https://www.grubhub.com/restaurant/fresh-2-go-deli-corp-10402-liberty-ave-ozone-park/1260486,1260486,Fresh 2 Go Deli Corp,59 ratings,Breakfast
+https://www.grubhub.com/restaurant/patisserie-chanson---upper-east-side-1293-3rd-avenue-new-york/7096304,7096304,Patisserie Chanson - Upper East Side,9 ratings,Dessert
+https://www.grubhub.com/restaurant/mias-breakfast-bar-lexington-ave-1101-lexington-ave-new-york/2785771,2785771,Mia's Breakfast Bar (Lexington Ave),NA,Breakfast
+https://www.grubhub.com/restaurant/the-one-breakfast-burrito-265-bedford-ave-brooklyn/3183577,3183577,The One Breakfast Burrito,12 ratings,Breakfast
+https://www.grubhub.com/restaurant/zaros-family-bakery-port-authority-625-8th-ave-new-york/2565862,2565862,Zaro's Family Bakery (Port Authority),26 ratings,Breakfast
+https://www.grubhub.com/restaurant/sullys-breakfast-sandwiches-154-7th-ave-new-york/3314432,3314432,Sully's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/egghead-breakfast-burritos-66-58-myrtle-ave-glendale/3038453,3038453,Egghead Breakfast Burritos,17 ratings,Breakfast
+https://www.grubhub.com/restaurant/tonic-juice-bar-2126-caton-ave-brooklyn/3222042,3222042,Tonic Juice Bar,5 ratings,Smoothies and Juices
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-bueno-deli-294-ave-uniondale/3356048,3356048,El Bueno Deli,NA,Cheesesteaks
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/breakfast-burrito-floozy-122-e-57th-st-new-york/2295487,2295487,Breakfast Burrito Floozy,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/pier-market-place-682-11th-ave-new-york/7296192,7296192,Pier Market Place,NA,Hamburger
+https://www.grubhub.com/restaurant/all-day-all-night-cafe-641-2nd-ave-new-york/3356317,3356317,All Day All Night Cafe,NA,Dessert
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-pancake-spot-300-8th-ave-new-york/2016655,2016655,The Pancake Spot,41 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/east-one-coffee-roasters-170-w-23rd-st-new-york/1755851,1755851,East One Coffee Roasters,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/metro-bagel--cafe-5811-4th-ave-brooklyn/2461549,2461549,Metro Bagel & Cafe,39 ratings,Bagel
+https://www.grubhub.com/restaurant/addictive-fried-chicken-333b-6th-ave-new-york/3295106,3295106,Addictive Fried Chicken,NA,American
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/local-breakfast-spot-755-9th-ave--1b-new-york/2644602,2644602,Local Breakfast Spot,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-best-breakfast-company-7609-5th-ave-brooklyn/6033472,6033472,The Best Breakfast Company,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/fort-green-food-market-186-dekalb-ave-brooklyn/1075141,1075141,Fort Green Food Market,40 ratings,Convenience
+https://www.grubhub.com/restaurant/franklin-ave-liquors-740-franklin-ave-franklin-square/6422768,6422768,Franklin Ave Liquors,3 ratings,Alcohol
+https://www.grubhub.com/restaurant/bcc-deli-corp-88-w-181st-st-bronx/3143887,3143887,BCC Deli Corp,NA,Breakfast
+https://www.grubhub.com/restaurant/3m-gourmet-deli-corp-316-st-nicholas-ave-new-york/1701079,1701079,3M Gourmet Deli Corp,25 ratings,Bodega
+https://www.grubhub.com/restaurant/village-convenience-store-8-centre-ave-east-rockaway/6410552,6410552,Village Convenience Store,NA,Convenience
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-bueno-deli-294-ave-uniondale/3356048,3356048,El Bueno Deli,NA,Cheesesteaks
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/breakfast-burrito-floozy-122-e-57th-st-new-york/2295487,2295487,Breakfast Burrito Floozy,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/pier-market-place-682-11th-ave-new-york/7296192,7296192,Pier Market Place,NA,Hamburger
+https://www.grubhub.com/restaurant/all-day-all-night-cafe-641-2nd-ave-new-york/3356317,3356317,All Day All Night Cafe,NA,Dessert
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-pancake-spot-300-8th-ave-new-york/2016655,2016655,The Pancake Spot,41 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/east-one-coffee-roasters-170-w-23rd-st-new-york/1755851,1755851,East One Coffee Roasters,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/metro-bagel--cafe-5811-4th-ave-brooklyn/2461549,2461549,Metro Bagel & Cafe,39 ratings,Bagel
+https://www.grubhub.com/restaurant/addictive-fried-chicken-333b-6th-ave-new-york/3295106,3295106,Addictive Fried Chicken,NA,American
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/local-breakfast-spot-755-9th-ave--1b-new-york/2644602,2644602,Local Breakfast Spot,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-best-breakfast-company-7609-5th-ave-brooklyn/6033472,6033472,The Best Breakfast Company,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/fort-green-food-market-186-dekalb-ave-brooklyn/1075141,1075141,Fort Green Food Market,40 ratings,Convenience
+https://www.grubhub.com/restaurant/franklin-ave-liquors-740-franklin-ave-franklin-square/6422768,6422768,Franklin Ave Liquors,3 ratings,Alcohol
+https://www.grubhub.com/restaurant/bcc-deli-corp-88-w-181st-st-bronx/3143887,3143887,BCC Deli Corp,NA,Breakfast
+https://www.grubhub.com/restaurant/3m-gourmet-deli-corp-316-st-nicholas-ave-new-york/1701079,1701079,3M Gourmet Deli Corp,25 ratings,Bodega
+https://www.grubhub.com/restaurant/village-convenience-store-8-centre-ave-east-rockaway/6410552,6410552,Village Convenience Store,NA,Convenience
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-bueno-deli-294-ave-uniondale/3356048,3356048,El Bueno Deli,NA,Cheesesteaks
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/breakfast-burrito-floozy-122-e-57th-st-new-york/2295487,2295487,Breakfast Burrito Floozy,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/pier-market-place-682-11th-ave-new-york/7296192,7296192,Pier Market Place,NA,Hamburger
+https://www.grubhub.com/restaurant/all-day-all-night-cafe-641-2nd-ave-new-york/3356317,3356317,All Day All Night Cafe,NA,Dessert
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-pancake-spot-300-8th-ave-new-york/2016655,2016655,The Pancake Spot,41 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/east-one-coffee-roasters-170-w-23rd-st-new-york/1755851,1755851,East One Coffee Roasters,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/metro-bagel--cafe-5811-4th-ave-brooklyn/2461549,2461549,Metro Bagel & Cafe,39 ratings,Bagel
+https://www.grubhub.com/restaurant/addictive-fried-chicken-333b-6th-ave-new-york/3295106,3295106,Addictive Fried Chicken,NA,American
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/local-breakfast-spot-755-9th-ave--1b-new-york/2644602,2644602,Local Breakfast Spot,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-best-breakfast-company-7609-5th-ave-brooklyn/6033472,6033472,The Best Breakfast Company,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/fort-green-food-market-186-dekalb-ave-brooklyn/1075141,1075141,Fort Green Food Market,40 ratings,Convenience
+https://www.grubhub.com/restaurant/franklin-ave-liquors-740-franklin-ave-franklin-square/6422768,6422768,Franklin Ave Liquors,3 ratings,Alcohol
+https://www.grubhub.com/restaurant/bcc-deli-corp-88-w-181st-st-bronx/3143887,3143887,BCC Deli Corp,NA,Breakfast
+https://www.grubhub.com/restaurant/3m-gourmet-deli-corp-316-st-nicholas-ave-new-york/1701079,1701079,3M Gourmet Deli Corp,25 ratings,Bodega
+https://www.grubhub.com/restaurant/village-convenience-store-8-centre-ave-east-rockaway/6410552,6410552,Village Convenience Store,NA,Convenience
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-bueno-deli-294-ave-uniondale/3356048,3356048,El Bueno Deli,NA,Cheesesteaks
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/breakfast-burrito-floozy-122-e-57th-st-new-york/2295487,2295487,Breakfast Burrito Floozy,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/pier-market-place-682-11th-ave-new-york/7296192,7296192,Pier Market Place,NA,Hamburger
+https://www.grubhub.com/restaurant/all-day-all-night-cafe-641-2nd-ave-new-york/3356317,3356317,All Day All Night Cafe,NA,Dessert
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-pancake-spot-300-8th-ave-new-york/2016655,2016655,The Pancake Spot,41 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/east-one-coffee-roasters-170-w-23rd-st-new-york/1755851,1755851,East One Coffee Roasters,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/metro-bagel--cafe-5811-4th-ave-brooklyn/2461549,2461549,Metro Bagel & Cafe,39 ratings,Bagel
+https://www.grubhub.com/restaurant/addictive-fried-chicken-333b-6th-ave-new-york/3295106,3295106,Addictive Fried Chicken,NA,American
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/local-breakfast-spot-755-9th-ave--1b-new-york/2644602,2644602,Local Breakfast Spot,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-best-breakfast-company-7609-5th-ave-brooklyn/6033472,6033472,The Best Breakfast Company,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/fort-green-food-market-186-dekalb-ave-brooklyn/1075141,1075141,Fort Green Food Market,40 ratings,Convenience
+https://www.grubhub.com/restaurant/franklin-ave-liquors-740-franklin-ave-franklin-square/6422768,6422768,Franklin Ave Liquors,3 ratings,Alcohol
+https://www.grubhub.com/restaurant/bcc-deli-corp-88-w-181st-st-bronx/3143887,3143887,BCC Deli Corp,NA,Breakfast
+https://www.grubhub.com/restaurant/3m-gourmet-deli-corp-316-st-nicholas-ave-new-york/1701079,1701079,3M Gourmet Deli Corp,25 ratings,Bodega
+https://www.grubhub.com/restaurant/village-convenience-store-8-centre-ave-east-rockaway/6410552,6410552,Village Convenience Store,NA,Convenience
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-bueno-deli-294-ave-uniondale/3356048,3356048,El Bueno Deli,NA,Cheesesteaks
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/breakfast-burrito-floozy-122-e-57th-st-new-york/2295487,2295487,Breakfast Burrito Floozy,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/pier-market-place-682-11th-ave-new-york/7296192,7296192,Pier Market Place,NA,Hamburger
+https://www.grubhub.com/restaurant/all-day-all-night-cafe-641-2nd-ave-new-york/3356317,3356317,All Day All Night Cafe,NA,Dessert
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-pancake-spot-300-8th-ave-new-york/2016655,2016655,The Pancake Spot,41 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/east-one-coffee-roasters-170-w-23rd-st-new-york/1755851,1755851,East One Coffee Roasters,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/metro-bagel--cafe-5811-4th-ave-brooklyn/2461549,2461549,Metro Bagel & Cafe,39 ratings,Bagel
+https://www.grubhub.com/restaurant/addictive-fried-chicken-333b-6th-ave-new-york/3295106,3295106,Addictive Fried Chicken,NA,American
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/local-breakfast-spot-755-9th-ave--1b-new-york/2644602,2644602,Local Breakfast Spot,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-best-breakfast-company-7609-5th-ave-brooklyn/6033472,6033472,The Best Breakfast Company,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/fort-green-food-market-186-dekalb-ave-brooklyn/1075141,1075141,Fort Green Food Market,40 ratings,Convenience
+https://www.grubhub.com/restaurant/franklin-ave-liquors-740-franklin-ave-franklin-square/6422768,6422768,Franklin Ave Liquors,3 ratings,Alcohol
+https://www.grubhub.com/restaurant/bcc-deli-corp-88-w-181st-st-bronx/3143887,3143887,BCC Deli Corp,NA,Breakfast
+https://www.grubhub.com/restaurant/3m-gourmet-deli-corp-316-st-nicholas-ave-new-york/1701079,1701079,3M Gourmet Deli Corp,25 ratings,Bodega
+https://www.grubhub.com/restaurant/village-convenience-store-8-centre-ave-east-rockaway/6410552,6410552,Village Convenience Store,NA,Convenience
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/el-bueno-deli-294-ave-uniondale/3356048,3356048,El Bueno Deli,NA,Cheesesteaks
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/breakfast-burrito-floozy-122-e-57th-st-new-york/2295487,2295487,Breakfast Burrito Floozy,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/pier-market-place-682-11th-ave-new-york/7296192,7296192,Pier Market Place,NA,Hamburger
+https://www.grubhub.com/restaurant/all-day-all-night-cafe-641-2nd-ave-new-york/3356317,3356317,All Day All Night Cafe,NA,Dessert
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-pancake-spot-300-8th-ave-new-york/2016655,2016655,The Pancake Spot,41 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/east-one-coffee-roasters-170-w-23rd-st-new-york/1755851,1755851,East One Coffee Roasters,25 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/metro-bagel--cafe-5811-4th-ave-brooklyn/2461549,2461549,Metro Bagel & Cafe,39 ratings,Bagel
+https://www.grubhub.com/restaurant/addictive-fried-chicken-333b-6th-ave-new-york/3295106,3295106,Addictive Fried Chicken,NA,American
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/local-breakfast-spot-755-9th-ave--1b-new-york/2644602,2644602,Local Breakfast Spot,10 ratings,Breakfast
+https://www.grubhub.com/restaurant/the-best-breakfast-company-7609-5th-ave-brooklyn/6033472,6033472,The Best Breakfast Company,14 ratings,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/fort-green-food-market-186-dekalb-ave-brooklyn/1075141,1075141,Fort Green Food Market,40 ratings,Convenience
+https://www.grubhub.com/restaurant/franklin-ave-liquors-740-franklin-ave-franklin-square/6422768,6422768,Franklin Ave Liquors,3 ratings,Alcohol
+https://www.grubhub.com/restaurant/bcc-deli-corp-88-w-181st-st-bronx/3143887,3143887,BCC Deli Corp,NA,Breakfast
+https://www.grubhub.com/restaurant/3m-gourmet-deli-corp-316-st-nicholas-ave-new-york/1701079,1701079,3M Gourmet Deli Corp,25 ratings,Bodega
+https://www.grubhub.com/restaurant/village-convenience-store-8-centre-ave-east-rockaway/6410552,6410552,Village Convenience Store,NA,Convenience
+https://www.grubhub.com/restaurant/juice-generation-queens-520-47th-rd-long-island-city/2263901,2263901,Juice Generation (Queens),100 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/scramble-town-cafe-1306-atlantic-ave-brooklyn/3267095,3267095,Scramble Town Cafe,NA,Breakfast
+https://www.grubhub.com/restaurant/fresh-2-go-deli-corp-10402-liberty-ave-ozone-park/1260486,1260486,Fresh 2 Go Deli Corp,59 ratings,Breakfast
+https://www.grubhub.com/restaurant/patisserie-chanson---upper-east-side-1293-3rd-avenue-new-york/7096304,7096304,Patisserie Chanson - Upper East Side,9 ratings,Dessert
+https://www.grubhub.com/restaurant/mias-breakfast-bar-lexington-ave-1101-lexington-ave-new-york/2785771,2785771,Mia's Breakfast Bar (Lexington Ave),NA,Breakfast
+https://www.grubhub.com/restaurant/the-one-breakfast-burrito-265-bedford-ave-brooklyn/3183577,3183577,The One Breakfast Burrito,12 ratings,Breakfast
+https://www.grubhub.com/restaurant/zaros-family-bakery-port-authority-625-8th-ave-new-york/2565862,2565862,Zaro's Family Bakery (Port Authority),26 ratings,Breakfast
+https://www.grubhub.com/restaurant/sullys-breakfast-sandwiches-154-7th-ave-new-york/3314432,3314432,Sully's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/egghead-breakfast-burritos-66-58-myrtle-ave-glendale/3038453,3038453,Egghead Breakfast Burritos,17 ratings,Breakfast
+https://www.grubhub.com/restaurant/tonic-juice-bar-2126-caton-ave-brooklyn/3222042,3222042,Tonic Juice Bar,5 ratings,Smoothies and Juices
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/fresh-curry-183-church-street-new-york/1232884,1232884,Fresh Curry,16 ratings,Indian
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/palace-on-fulton-pizza-chicken-pasta--halal-1882-fulton-st-brooklyn/308354,308354,"Palace On Fulton Pizza, Chicken, Pasta & Halal",141 ratings,Pizza
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/new-arrow-wine--liquor-inc-4804-avenue-n-brooklyn/6263080,6263080,New Arrow Wine & Liquor Inc,54 ratings,Alcohol
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/just-vegan-54-7th-ave-brooklyn/5654624,5654624,Just Vegan,NA,Salads
+https://www.grubhub.com/restaurant/dubl-twister-ice-cream-and-coffee-shop-1443-york-ave-new-york/3119162,3119162,Dubl Twister Ice Cream and Coffee Shop,24 ratings,Dessert
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
+https://www.grubhub.com/restaurant/juice-generation-queens-520-47th-rd-long-island-city/2263901,2263901,Juice Generation (Queens),100 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/scramble-town-cafe-1306-atlantic-ave-brooklyn/3267095,3267095,Scramble Town Cafe,NA,Breakfast
+https://www.grubhub.com/restaurant/fresh-2-go-deli-corp-10402-liberty-ave-ozone-park/1260486,1260486,Fresh 2 Go Deli Corp,59 ratings,Breakfast
+https://www.grubhub.com/restaurant/patisserie-chanson---upper-east-side-1293-3rd-avenue-new-york/7096304,7096304,Patisserie Chanson - Upper East Side,9 ratings,Dessert
+https://www.grubhub.com/restaurant/mias-breakfast-bar-lexington-ave-1101-lexington-ave-new-york/2785771,2785771,Mia's Breakfast Bar (Lexington Ave),NA,Breakfast
+https://www.grubhub.com/restaurant/the-one-breakfast-burrito-265-bedford-ave-brooklyn/3183577,3183577,The One Breakfast Burrito,12 ratings,Breakfast
+https://www.grubhub.com/restaurant/zaros-family-bakery-port-authority-625-8th-ave-new-york/2565862,2565862,Zaro's Family Bakery (Port Authority),26 ratings,Breakfast
+https://www.grubhub.com/restaurant/sullys-breakfast-sandwiches-154-7th-ave-new-york/3314432,3314432,Sully's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/egghead-breakfast-burritos-66-58-myrtle-ave-glendale/3038453,3038453,Egghead Breakfast Burritos,17 ratings,Breakfast
+https://www.grubhub.com/restaurant/tonic-juice-bar-2126-caton-ave-brooklyn/3222042,3222042,Tonic Juice Bar,5 ratings,Smoothies and Juices
+https://www.grubhub.com/restaurant/olives-food-market-4200-baychester-avenue-bronx/4331072,4331072,Olives Food Market,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/fresh-king-market---beer--grocery-9-knolls-crescent-bronx/1967475,1967475,Fresh King Market - Beer & Grocery,117 ratings,Convenience
+https://www.grubhub.com/restaurant/la-nueva-bakery-86-10-37th-ave-queens/4479880,4479880,La Nueva Bakery,10 ratings,Mexican
+https://www.grubhub.com/restaurant/b-town-breakfast-sandwiches-16902-hillside-ave-queens/3332908,3332908,B-Town Breakfast Sandwiches,NA,Breakfast
+https://www.grubhub.com/restaurant/marthas-breakfast-sandwiches-1117-broadway-brooklyn/3300972,3300972,Martha's Breakfast Sandwiches,5 ratings,Breakfast
+https://www.grubhub.com/restaurant/for-five-coffee-roasters----brookfield-place-225-liberty-st-new-york/2368674,2368674,For Five Coffee Roasters - Brookfield Place,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/fresh-curry-183-church-street-new-york/1232884,1232884,Fresh Curry,16 ratings,Indian
+https://www.grubhub.com/restaurant/the-sandwich-doctor-1219-1st-avenue-new-york/3056641,3056641,The Sandwich Doctor,4 ratings,sandwich
+https://www.grubhub.com/restaurant/palace-on-fulton-pizza-chicken-pasta--halal-1882-fulton-st-brooklyn/308354,308354,"Palace On Fulton Pizza, Chicken, Pasta & Halal",141 ratings,Pizza
+https://www.grubhub.com/restaurant/express-deli-corp-i-5814-4th-ave-brooklyn/5608072,5608072,Express Deli Corp I,9 ratings,Hamburger
+https://www.grubhub.com/restaurant/relapse-wraps-740-10th-ave-new-york/5268264,5268264,Relapse Wraps,NA,Sandwich
+https://www.grubhub.com/restaurant/flatbush-discount-liquors-1023-flatbush-ave-brooklyn/4911112,4911112,Flatbush Discount Liquors,175 ratings,Alcohol
+https://www.grubhub.com/restaurant/dean-organic-market-486-dean-st-brooklyn/866534,866534,Dean Organic Market,183 ratings,Dinner
+https://www.grubhub.com/restaurant/la-rosita-flower-shop-551-e-168th-st-bronx-morrisania/3264919,3264919,La Rosita Flower Shop,5 ratings,American
+https://www.grubhub.com/restaurant/beer-wine--spirits-by-gopuff-3000-jerome-ave-bronx/4777152,4777152,"Beer, Wine & Spirits by Gopuff",89 ratings,Convenience
+https://www.grubhub.com/restaurant/caffe-aronne-112-greenwich-ave-new-york/2262645,2262645,Caffe Aronne,12 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/new-arrow-wine--liquor-inc-4804-avenue-n-brooklyn/6263080,6263080,New Arrow Wine & Liquor Inc,54 ratings,Alcohol
+https://www.grubhub.com/restaurant/stop--shop-deli-1000-jerusalem-ave-merrick/2875440,2875440,Stop & Shop Deli,NA,Breakfast
+https://www.grubhub.com/restaurant/fresh-choice-juice-bar-631-flatbush-ave-new-york/2896439,2896439,Fresh Choice Juice Bar,NA,Smoothies and Juices
+https://www.grubhub.com/restaurant/the-burger-hole-607-9th-ave-new-york/2896708,2896708,The Burger Hole,6 ratings,Hamburger
+https://www.grubhub.com/restaurant/italian-dessert-spot-353-w-125th-st-new-york/2711621,2711621,Italian Dessert Spot,5 ratings,Dessert
+https://www.grubhub.com/restaurant/brooklyn-roasting-company-200-flushing-ave-brooklyn/3188509,3188509,Brooklyn Roasting Company,16 ratings,Coffee and Tea
+https://www.grubhub.com/restaurant/ritas-delicatessen-97-stanton-st-new-york/3101510,3101510,Rita's Delicatessen,NA,Bodega
+https://www.grubhub.com/restaurant/just-vegan-54-7th-ave-brooklyn/5654624,5654624,Just Vegan,NA,Salads
+https://www.grubhub.com/restaurant/dubl-twister-ice-cream-and-coffee-shop-1443-york-ave-new-york/3119162,3119162,Dubl Twister Ice Cream and Coffee Shop,24 ratings,Dessert
+https://www.grubhub.com/restaurant/baskin-robbins-2248-central-park-ave-yonkers/5885072,5885072,Baskin-Robbins,10 ratings,Dessert
