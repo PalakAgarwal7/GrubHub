@@ -63,3 +63,10 @@ Recommendation Model: Predict preferred price and suggest a suitable location ba
 
 - Market Expansion: Extend the recommendation system to other cities and regions to reach a broader user base.
 
+
+### 🙏 Acknowledgments
+I would like to express my sincere gratitude to the following individuals:
+
+- Mentor: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project.
+- Team Members: Palak Aggarwal, Tushar, Sonam Jain, Asha Kumari, Aravind, Abhishek Panday for their collaboration, contributions, and teamwork, which enriched the project significantly.
+- Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
