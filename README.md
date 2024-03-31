@@ -15,7 +15,6 @@ Recommendation Model: Predict preferred price and suggest a suitable location ba
 - 📊 Data Extraction
 - 🔍 Data Preprocessing
 - 📊 Power BI Dashboard
-- 🌐 Webpage
 - 🌟 Tech Stack
 - 💡 Insights Derived
 - 🚀 Future Scop
@@ -35,12 +34,6 @@ Recommendation Model: Predict preferred price and suggest a suitable location ba
 -It includes various filters for exploring different scenarios.
 
 
-### 🌐 Webpage
-- Created an interactive webpage for users to input cuisine, preferred location, and preferred price.
-- Utilized Flask to build the user interface.
-- Stored model predictions using Pickle.
-
-
 ### 🌟 Tech Stack
 - Python: Data extraction and EDA
 - Power Query: Minor data adjustments
@@ -53,7 +46,7 @@ Recommendation Model: Predict preferred price and suggest a suitable location ba
 - Personalized Recommendations: The recommendation model provides personalized restaurant suggestions based on user preferences, determines the best location for opening a restaurant.
 
 - User Engagement: Analyzing user interactions with recommended restaurants and tracking user feedback helps refine the recommendation algorithm.
-- 
+  
 - Restaurant Insights: By analyzing user preferences, restaurant owners can gain insights into customer preferences, leading to menu optimization and targeted promotions.
 
 ### 🚀 Future Scope
