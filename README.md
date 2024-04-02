@@ -3,10 +3,10 @@
 Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation
 
 #### 📊 Project Overview
-Objective: Develop a recommendation model for restaurant in NewYork City.
+Objective: Develop a recommendation model for restaurants in NewYork City.
 Data Source: Scrape data from Grubhub using Python.
 Libraries Used: NumPy, Pandas, Seaborn, Matplotlib.
-Recommendation Model: Predict preferred price and suggest a suitable location based on cuisine and price.
+Recommendation Model: Predict the preferred price and suggest a suitable location based on cuisine and price.
 
 
 #### 📑 Table of Contents
@@ -38,14 +38,11 @@ Recommendation Model: Predict preferred price and suggest a suitable location ba
 - Python: Data extraction and EDA
 - Power Query: Minor data adjustments
 - Power Bi: Dashboard creation and data presentation
-- Jupyter Notebook: Used Jupyter as IDE
+- PyCharm: Used PyCharm as IDE
 - Algorithm Complexity: Developing a recommendation algorithm that considers multiple factors while ensuring scalability and real-time performance was challenging.
-- User Engagement: Encouraging users to engage with the recommendation system and provide feedback for continuous improvement.
 
 ### 💡Insights Derived
 - Personalized Recommendations: The recommendation model provides personalized restaurant suggestions based on user preferences, determines the best location for opening a restaurant.
-
-- User Engagement: Analyzing user interactions with recommended restaurants and tracking user feedback helps refine the recommendation algorithm.
   
 - Restaurant Insights: By analyzing user preferences, restaurant owners can gain insights into customer preferences, leading to menu optimization and targeted promotions.
 
