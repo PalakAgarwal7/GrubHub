@@ -3,7 +3,7 @@
 Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation
 
 #### 📊 Project Overview
-Objective: Develop a recommendation model for restaurants in NewYork City.
+Objective: Develop a recommendation model for restaurants in New York City.
 Data Source: Scrape data from Grubhub using Python.
 Libraries Used: NumPy, Pandas, Seaborn, Matplotlib.
 Recommendation Model: Predict the preferred price and suggest a suitable location based on cuisine and price.
@@ -37,12 +37,12 @@ Recommendation Model: Predict the preferred price and suggest a suitable locatio
 ### 🌟 Tech Stack
 - Python: Data extraction and EDA
 - Power Query: Minor data adjustments
-- Power Bi: Dashboard creation and data presentation
+- Power BI: Dashboard creation and data presentation
 - PyCharm: Used PyCharm as IDE
 - Algorithm Complexity: Developing a recommendation algorithm that considers multiple factors while ensuring scalability and real-time performance was challenging.
 
 ### 💡Insights Derived
-- Personalized Recommendations: The recommendation model provides personalized restaurant suggestions based on user preferences, determines the best location for opening a restaurant.
+- Personalized Recommendations: The recommendation model provides personalized restaurant suggestions based on user preferences, and determines the best location for opening a restaurant.
   
 - Restaurant Insights: By analyzing user preferences, restaurant owners can gain insights into customer preferences, leading to menu optimization and targeted promotions.
 
@@ -55,8 +55,8 @@ Recommendation Model: Predict the preferred price and suggest a suitable locatio
 
 
 ### 🙏 Acknowledgments
-I would like to express my sincere gratitude to the following individuals:
+I want to express my sincere gratitude to the following individuals:
 
 - Mentor: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project.
-- Team Members: Palak Aggarwal, Tushar, Sonam Jain, Asha Kumari, Aravind, Abhishek Panday for their collaboration, contributions, and teamwork, which enriched the project significantly.
+- Team Members: Palak Aggarwal, Tushar, Sonam Jain, Asha Kumari, Aravind, and Abhishek Panday for their collaboration, contributions, and teamwork, which enriched the project significantly.
 - Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
