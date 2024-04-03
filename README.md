@@ -32,7 +32,7 @@ Recommendation Model: Predict the preferred price and suggest a suitable locatio
 
 # 📊 Power BI Dashboard
 -It includes various filters for exploring different scenarios.
-https://github.com/PalakAgarwal7/GrubHub/blob/main/Food%20Delivery/Dashboard/GrubHub%20Food%20Delivery%20Dashboard.pbix
+
 
 ### 🌟 Tech Stack
 - Python: Data extraction and EDA
