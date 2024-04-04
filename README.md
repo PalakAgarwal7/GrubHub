@@ -32,7 +32,8 @@ Recommendation Model: Predict the preferred price and suggest a suitable locatio
 
 # 📊 Power BI Dashboard
 -It includes various filters for exploring different scenarios.
-![Screenshot 2024-04-04 101918](https://github.com/PalakAgarwal7/GrubHub/assets/96558590/0b857c5d-7923-474a-8ec7-7a9a41d876c9)
+
+![GrubHub Dashboard](https://github.com/PalakAgarwal7/GrubHub/assets/96558590/bc78c74d-0855-48e5-9b66-5108a8b7bda0)
 
 
 ### 🌟 Tech Stack
